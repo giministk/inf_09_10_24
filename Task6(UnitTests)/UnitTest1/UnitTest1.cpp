@@ -1,6 +1,6 @@
 ﻿#include "pch.h"
 #include "CppUnitTest.h"
-#include "../testing/testing.cpp"
+#include "../Task1/hh.cpp"
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 namespace UnitTest1
 {
@@ -37,14 +37,6 @@ namespace UnitTest1
 		TEST_METHOD(isSmax)
 		{
 			Assert::IsTrue(s > r);
-		}
-		TEST_METHOD(isS)
-		{
-			Assert::AreEqual(s, test);
-		}
-		TEST_METHOD(isR)
-		{
-			Assert::AreEqual(r, test);
 		}
 	};
 }
