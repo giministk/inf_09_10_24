@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (функция.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  alg_laba6.cpp
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(134,28): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(153,53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(153,53): warning C4244:         with
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(153,53): warning C4244:         [
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(153,53): warning C4244:             T=float
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(153,53): warning C4244:         ]
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(153,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(153,42): warning C4244:         with
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(153,42): warning C4244:         [
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(153,42): warning C4244:             T=float
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(153,42): warning C4244:         ]
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(154,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(154,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(172,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(172,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Игорёк\source\repos\функция\функция\alg_laba6.cpp(264,1): warning C4715: A_star: значение возвращается не при всех путях выполнения
+  функция.vcxproj -> C:\Users\Игорёк\source\repos\функция\x64\Debug\alg_laba6.exe
