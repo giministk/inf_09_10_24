@@ -1,0 +1,6 @@
+﻿  alg_laba7_3.cpp
+C:\Users\Игорёк\source\repos\alg_laba7\alg_laba7_3\alg_laba7_3.cpp(46,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Игорёк\source\repos\alg_laba7\alg_laba7_3\alg_laba7_3.cpp(47,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Игорёк\source\repos\alg_laba7\alg_laba7_3\alg_laba7_3.cpp(44,9): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Игорёк\source\repos\alg_laba7\alg_laba7_3\alg_laba7_3.cpp(44,12): warning C4101: num: неиспользованная локальная переменная
+  alg_laba7_3.vcxproj -> C:\Users\Игорёк\source\repos\alg_laba7\x64\Debug\alg_laba7_3.exe
